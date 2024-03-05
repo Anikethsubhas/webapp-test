@@ -1,0 +1,24 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.navbar{
+    background-color: #2D3142;
+    height: 50px;
+    width: auto;
+    
+}
+.nav-content{
+    padding: 10px 10px;
+    display: flex;
+    list-style: none;
+    /* color: #B0D7FF; */
+}
+.nav-content a{
+    text-decoration: none;
+    color: #B0D7FF;
+}
+.nav-content li{
+    padding: 5px;
+   
+}
